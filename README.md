@@ -1,2 +1,2 @@
-# dom-manipulation-homework
+# homework
 homwork demo : 
